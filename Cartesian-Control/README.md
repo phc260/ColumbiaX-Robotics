@@ -8,5 +8,5 @@ In addition, also provided the null-space control, changing the value of the fir
 <img src="cartesian_control.png">
 
 
-#### Null-Space Control
+### Null-Space Control
 <img src="null_space_control.png">
